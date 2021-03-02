@@ -1,0 +1,12 @@
+.club-section {
+    border-left: 2px solid tomato;
+    padding: 30px;
+}
+.orange-text {
+    color: white;
+    background-color: orangered;
+    text-align: center;
+    margin-bottom: 30px;
+    padding: 10px;
+    border-radius: 5px;
+}
